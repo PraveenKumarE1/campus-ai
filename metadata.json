@@ -1,0 +1,6 @@
+{
+  "name": "CollegeWise AI – Real-Time College & Career Intelligence Platform",
+  "description": "Real-time college intelligence and AI recommendation platform for 12th standard graduates with cutoff prediction, verified fee structures, campus freedom metrics, and career roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
